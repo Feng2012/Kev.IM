@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kev.IM.SocketTools", "..\Kev.IM.SocketTools\Kev.IM.SocketTools.csproj", "{9CAD1723-A208-411A-9886-166957E3E76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kev.IM.Service", "Kev.IM.Service\Kev.IM.Service.csproj", "{AE2A634C-CC4E-4EB4-8F6B-30C8FE4484F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kev.IM.User", "Kev.IM.User\Kev.IM.User.csproj", "{1386E23E-BC36-423E-9ADD-169BFAD8ABBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2A634C-CC4E-4EB4-8F6B-30C8FE4484F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2A634C-CC4E-4EB4-8F6B-30C8FE4484F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2A634C-CC4E-4EB4-8F6B-30C8FE4484F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2A634C-CC4E-4EB4-8F6B-30C8FE4484F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1386E23E-BC36-423E-9ADD-169BFAD8ABBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1386E23E-BC36-423E-9ADD-169BFAD8ABBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1386E23E-BC36-423E-9ADD-169BFAD8ABBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1386E23E-BC36-423E-9ADD-169BFAD8ABBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

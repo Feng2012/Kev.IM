@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kev.IM.Client", "Kev.IM.Client\Kev.IM.Client.csproj", "{3A95760C-C894-4608-81AA-5A709450EEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kev.IM.SocketTools", "..\Kev.IM.SocketTools\Kev.IM.SocketTools.csproj", "{9CAD1723-A208-411A-9886-166957E3E76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A95760C-C894-4608-81AA-5A709450EEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A95760C-C894-4608-81AA-5A709450EEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A95760C-C894-4608-81AA-5A709450EEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A95760C-C894-4608-81AA-5A709450EEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAD1723-A208-411A-9886-166957E3E76A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
